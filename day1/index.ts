@@ -14,3 +14,5 @@ const input: string = readFileSync("./input.txt", {
 const lines: string[] = input.split(/\r?\n/);
 
 // Challenge:
+
+// Challenge part 2:
