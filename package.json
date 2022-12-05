@@ -1,5 +1,11 @@
 {
   "devDependencies": {
-    "@types/node": "^18.11.10"
+    "@types/node": "^18.11.10",
+    "typescript": "^4.9.3"
+  },
+  "scripts": {
+    "start": "node out/day5/index.js",
+    "prestart": "npm run build",
+    "build": "tsc"
   }
 }

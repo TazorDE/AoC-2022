@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "outDir": "./out",
+        "rootDir": "./",
+        "sourceMap": true,
+        "target": "es2015"
+    },
+}
