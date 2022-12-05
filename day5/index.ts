@@ -1,7 +1,7 @@
 /**
  * Copyright 2022 - Malte Teichert
  * CRATE MOVER 9000
- * Advent of Code Day 3
+ * Advent of Code Day 5
  */
 
 // import statements

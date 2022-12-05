@@ -1,6 +1,6 @@
 /**
  * Copyright 2022 - Malte Teichert
- * Advent of Code Day 3
+ * Advent of Code Day 4
  */
 
 // import statements
