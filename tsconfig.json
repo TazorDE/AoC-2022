@@ -1,8 +1,15 @@
 {
     "compilerOptions": {
+        "esModuleInterop": true,
         "outDir": "./out",
         "rootDir": "./",
         "sourceMap": true,
-        "target": "es2015"
+        "target": "ESNext",
     },
+    "ts-node": {
+        "esm": true
+    },
+    "lib": [
+        "esnext"
+    ]
 }
